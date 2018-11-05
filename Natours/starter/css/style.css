@@ -363,7 +363,7 @@ body {
   display: block;
   transition: all .3s; }
 
-.form__input:placeholder-show + .form__label {
+.form__input:placeholder-shown + .form__label {
   opacity: 0;
   visibility: hidden;
   transform: translateY(-4rem); }
