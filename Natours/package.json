@@ -1,0 +1,23 @@
+{
+  "name": "advanced-css-course-master",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass starter/sass/main.scss starter/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElAndy94/Advanced-css.git"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElAndy94/Advanced-css/issues"
+  },
+  "homepage": "https://github.com/ElAndy94/Advanced-css#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  },
+  "dependencies": {}
+}
